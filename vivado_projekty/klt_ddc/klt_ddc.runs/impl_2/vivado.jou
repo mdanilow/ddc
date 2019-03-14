@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sun Mar 10 19:20:31 2019
+# Process ID: 4668
+# Current directory: E:/rzeczy/vivado_projekty/klt_ddc/klt_ddc.runs/impl_2
+# Command line: vivado.exe -log tor_wizyjny_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source tor_wizyjny_wrapper.tcl -notrace
+# Log file: E:/rzeczy/vivado_projekty/klt_ddc/klt_ddc.runs/impl_2/tor_wizyjny_wrapper.vdi
+# Journal file: E:/rzeczy/vivado_projekty/klt_ddc/klt_ddc.runs/impl_2\vivado.jou
+#-----------------------------------------------------------
+source tor_wizyjny_wrapper.tcl -notrace

@@ -1,0 +1,24 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+Block Memory Generator module tb_hdmi.context.line1.BRAM.inst.native_mem_module.blk_mem_gen_v8_4_2_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module tb_hdmi.context.line2.BRAM.inst.native_mem_module.blk_mem_gen_v8_4_2_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module tb_hdmi.previous_frame_pixel.mem.inst.native_mem_module.blk_mem_gen_v8_4_2_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+out_         0         0         0.ppm saved
+out_         0         0         1.ppm saved
+out_         0         0         2.ppm saved
+out_         0         0         3.ppm saved
+out_         0         0         4.ppm saved
+out_         0         0         5.ppm saved
+out_         0         0         6.ppm saved
+out_         0         0         7.ppm saved
+out_         0         0         8.ppm saved
+out_         0         0         9.ppm saved
+out_         0         1         0.ppm saved
+out_         0         1         1.ppm saved
+out_         0         1         2.ppm saved
+out_         0         1         3.ppm saved
+out_         0         1         4.ppm saved
+out_         0         1         5.ppm saved
+out_         0         1         6.ppm saved
+out_         0         1         7.ppm saved
+out_         0         1         8.ppm saved
